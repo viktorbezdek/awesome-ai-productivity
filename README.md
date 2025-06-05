@@ -22,3 +22,4 @@ Contributions welcome.
 <!-- skills -->
 <!-- plugins -->
 <!-- agents -->
+<!-- mcp -->
