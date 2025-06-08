@@ -23,3 +23,4 @@ Contributions welcome.
 <!-- plugins -->
 <!-- agents -->
 <!-- mcp -->
+<!-- ide -->
