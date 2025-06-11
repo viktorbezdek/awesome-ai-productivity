@@ -24,3 +24,4 @@ Contributions welcome.
 <!-- agents -->
 <!-- mcp -->
 <!-- ide -->
+<!-- hooks -->
