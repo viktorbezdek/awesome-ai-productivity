@@ -33,3 +33,4 @@ Contributions welcome.
 <!-- orchestrators -->
 <!-- statuslines -->
 <!-- docker -->
+<!-- templates -->
