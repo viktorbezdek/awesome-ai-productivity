@@ -34,3 +34,4 @@ Contributions welcome.
 <!-- statuslines -->
 <!-- docker -->
 <!-- templates -->
+<!-- usage -->
