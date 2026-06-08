@@ -365,6 +365,12 @@
 | [claude-context-local](https://github.com/claude-context-local) | Local code search MCP — semantic search across your codebase without sending code to the cloud. |
 | [claude-context-mode](https://github.com/claude-context-mode) | Output compression via MCP — reduce context window usage by up to 95%. |
 
+### Security & Agent Verification
+
+| Server | Description |
+|--------|-------------|
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring for AI agent wallets on Solana. Preflight checks, behavioral scoring, and x402 cryptographic trust receipts for multi-agent systems. Free tools for identity verification before micropayments. |
+
 ---
 
 ## CLI Tools & Utilities
