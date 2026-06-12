@@ -185,6 +185,7 @@
 | [x-article-publisher-skill](https://github.com/x-article-publisher-skill/x-article-publisher-skill) | Publish long-form articles to X/Twitter with formatting and media optimization. |
 | [last30days-skill](https://github.com/last30days-skill/last30days-skill) | Reddit and X research — aggregate last 30 days of discussions on any topic. |
 | [Youtube-clipper-skill](https://github.com/Youtube-clipper-skill/Youtube-clipper-skill) | Video processing automation — clip extraction, transcription, highlight compilation. |
+| [CreatorSkills](https://creatorskills.co) | Skills marketplace — 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. |
 
 ### Science & Research
 
