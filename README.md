@@ -185,6 +185,7 @@
 | [x-article-publisher-skill](https://github.com/x-article-publisher-skill/x-article-publisher-skill) | Publish long-form articles to X/Twitter with formatting and media optimization. |
 | [last30days-skill](https://github.com/last30days-skill/last30days-skill) | Reddit and X research — aggregate last 30 days of discussions on any topic. |
 | [Youtube-clipper-skill](https://github.com/Youtube-clipper-skill/Youtube-clipper-skill) | Video processing automation — clip extraction, transcription, highlight compilation. |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to live campaign and analytics data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads). |
 
 ### Science & Research
 
