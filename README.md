@@ -277,6 +277,7 @@
 | [b2b-project-shipper](https://github.com/ccplugins/awesome-claude-code-plugins/blob/main/plugins/b2b-project-shipper) | B2B project delivery automation — scoping, milestones, client communication. |
 | [growth-hacker](https://github.com/ccplugins/awesome-claude-code-plugins/blob/main/plugins/growth-hacker) | Growth engineering — experiment design, funnel optimization, retention analysis. |
 | [seomachine](https://github.com/seomachine/seomachine) | SEO-optimized content workspace — keyword research, content creation, and rank tracking. |
+| [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) | Hermes Agent plugin for X/Twitter research, profile lookup, follower export, monitoring, webhooks, and approval-gated posting workflows. |
 
 ---
 
