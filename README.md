@@ -93,6 +93,8 @@
 
 ## Agent Skills
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 > Skills are folders of instructions and scripts that Claude loads dynamically to improve performance on specialized tasks. Each contains a `SKILL.md` with YAML frontmatter.
 
 ### Official Anthropic Skills
