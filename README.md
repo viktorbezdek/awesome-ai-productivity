@@ -395,7 +395,7 @@
 | [ClaudeCTX](https://github.com/foxj77/claudectx) | Switch entire Claude Code configuration with a single command — per-project or per-task contexts. |
 | [claude-rules-doctor](https://github.com/nulone/claude-rules-doctor) | CLI detecting dead rules files by checking path glob matches — keep your config clean. |
 | [Rulesync](https://github.com/dyoshikawa/rulesync) | Generate configs for multiple AI coding agents (Claude, Cursor, Copilot) from a single source. |
-| [SandBase CLI](https://github.com/sandbaseai/cli) | Open-source CLI and MCP bridge that configures Claude Code and other AI coding agents to access 2,000+ AI models and APIs through one account. |
+| [SandBase CLI](https://github.com/sandbaseai/cli) | Open-source CLI and MCP bridge that configures Claude Code and other AI coding agents to access 2,000+ AI models through one account. |
 | [ccexp](https://github.com/nyatinte/ccexp) | Interactive CLI for discovering and managing Claude Code configurations across projects. |
 | [ccmate](https://github.com/ccmate/ccmate) | Configuration management with templates, sharing, and synchronization across machines. |
 | [claude-starter-kit](https://github.com/serpro69/claude-starter-kit) | Starter template repo with MCP servers, skills, agents, and pre-configured tooling. |
