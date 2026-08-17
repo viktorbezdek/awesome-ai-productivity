@@ -631,6 +631,7 @@ For writers, marketers, and content strategists:
 - [x-research-skill](https://github.com/x-research-skill/x-research-skill) — Social media research
 - [last30days-skill](https://github.com/last30days-skill/last30days-skill) — Trend aggregation
 - [Youtube-clipper-skill](https://github.com/Youtube-clipper-skill/Youtube-clipper-skill) — Video content tools
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Local-first CLI, MCP server, and skills for plan-based video composition, editing, generation, and assembly
 - [Book Factory](https://github.com/robertguss/claude-skills) — Nonfiction publishing pipeline
 
 ### The DevOps Command Center
