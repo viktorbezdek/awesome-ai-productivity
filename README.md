@@ -135,6 +135,7 @@
 | [callstackincubator](https://github.com/callstackincubator/react-native-skills) | React Native skills from the Callstack team — navigation, performance, native modules. |
 | [ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | Build, deploy, navigate, and test iOS apps through automated simulator interaction. |
 | [skill-codex](https://github.com/skills-directory/skill-codex) | Delegate work to OpenAI Codex with inferred parameters and seamless session continuation. |
+| [golang-curated-agent-skills](https://github.com/matdev83/golang-curated-agent-skills) | Curated portable Go skills for concurrency, testing, error handling, gRPC, observability, and idiomatic style — 44 normalized SKILL.md workflows. |
 
 ### Security & Auditing
 
