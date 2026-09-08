@@ -406,6 +406,7 @@
 | Project | Description |
 |---------|-------------|
 | [ccusage](https://github.com/ryoppippi/ccusage) | CLI for analyzing Claude Code usage from local JSONL files — 5-hour billing blocks, cost tracking, dashboards. |
+| [Skilled](https://github.com/av/skilled) | Local TUI and CLI for counting recorded skill invocations in coding-agent histories, including Claude Code. Shows per-skill frequency, trends, and project breakdowns; supports JSON output without uploading traces. |
 | [ccflare](https://github.com/snipeship/ccflare) | Web-UI usage dashboard with comprehensive metrics — visualize your Claude Code consumption. |
 | [better-ccflare](https://github.com/tombii/better-ccflare) | Enhanced fork with performance improvements and Docker deployment for team usage tracking. |
 | [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | Real-time terminal tool showing token consumption, burn rate, and remaining capacity. |
