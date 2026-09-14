@@ -205,6 +205,7 @@
 | [solana-dev-skill](https://github.com/solana-dev-skill/solana-dev-skill) | Solana blockchain development — smart contracts, token programs, DeFi patterns. |
 | [nano-image-generator-skill](https://github.com/nano-image-generator-skill/nano-image-generator-skill) | Gemini-powered image generation — create images through Claude using Google's API. |
 | [pm-skills](https://github.com/phuryn/pm-skills) | 100+ product management skills — discovery, strategy, execution, launch, and growth. |
+| [job-application-agent](https://github.com/vaibhavarora14/job-application-agent) | Privacy-first job Agent Skill — discover, qualify, complete, and track your own applications with verified facts and confirmed-submission ledgers. |
 | [Book Factory](https://github.com/robertguss/claude-skills) | Publishing pipeline — replicate traditional nonfiction book creation from outline to manuscript. |
 
 ---
