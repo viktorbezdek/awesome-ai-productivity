@@ -308,6 +308,8 @@
 | [multi-agent-squad](https://github.com/multi-agent-squad) | Multi-agent orchestration framework with role-based agent assignment and shared memory. |
 | [container-use](https://github.com/dagger/container-use) | Development environments enabling multiple agents to work safely in isolated containers with Dagger. |
 
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Coordinates local Claude Code sessions alongside specialist agents. |
+
 ### Ralph Wiggum Technique
 
 > The "Ralph" autonomous loop technique, cited in Anthropic documentation, for self-directed long-running tasks.
