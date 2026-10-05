@@ -356,6 +356,7 @@
 |--------|-------------|
 | [Google Drive MCP](https://github.com/modelcontextprotocol/servers) | Google Drive file access and search — read documents, spreadsheets, and presentations. |
 | [Slack MCP](https://github.com/modelcontextprotocol/servers) | Slack channel management and messaging — read channels, send messages, search history. |
+| [AI Group Call](https://aigroupcall.app) | You set a goal and two to eight AI voices run a round-table call with you: drop-ins, barge-in, and a written recap. |
 
 ### Development Tools
 
